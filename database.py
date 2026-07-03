@@ -47,7 +47,7 @@ class LongTermMemory(Base):
 
 
 def init_db():
-    Base.metadata.create_all(bind=engine) #This is a SQLAlchemy function that creates all the database tables
+    Base.metadata.create_all(bind=engine) 
 
 
 def create_or_update_conversation(thread_id: str, first_message: str | None = None):
