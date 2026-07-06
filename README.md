@@ -171,7 +171,7 @@ PaviAgent/
 
 ---
 
-## 💡 Use Cases
+##  Use Cases
 
 - AI-powered conversational assistant
 - Question answering over uploaded documents
