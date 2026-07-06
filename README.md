@@ -118,7 +118,7 @@ LANGSMITH_TRACING=false
 
 ---
 
-## ▶️ Run the Application
+##  Run the Application
 
 ```bash
 python app.py
@@ -156,7 +156,7 @@ PaviAgent/
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - Python
 - FastAPI
