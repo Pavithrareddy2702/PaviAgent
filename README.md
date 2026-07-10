@@ -38,7 +38,7 @@ PaviAgent combines modern AI technologies to build an intelligent conversational
 
 ---
 
-## 📋 Prerequisites
+##  Prerequisites
 
 Make sure you have the following installed:
 
