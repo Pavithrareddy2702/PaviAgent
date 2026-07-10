@@ -49,7 +49,7 @@ Rules:
 - If the user asks about previous preferences or saved facts, use recall_memory.
 - Use calculator for math questions.
 - When using web search, summarize clearly and mention that the answer is based on web search results.
-- Be clear, helpful, and concise.
+- Be clear, helpful, and concise while answering.
 """
 
 
